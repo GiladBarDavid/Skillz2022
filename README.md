@@ -88,6 +88,6 @@ Team member  - Matan K.
 Team member  - Asaf A.
 
 
-Project Link: [https://github.com/GiladBardavid/Skillz2022](https://github.com/GiladBardavid/Skillz2022)
+Project Link: [https://github.com/GiladBarBavid/Skillz2022](https://github.com/GiladBarDavid/Skillz2022)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
